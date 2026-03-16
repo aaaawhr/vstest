@@ -7,5 +7,8 @@ int main(int argc, char* argv[])
 	qDebug() << "Hello World!";
 	qDebug() << "Hello World!";
 	qDebug() << "Hello World!";
+	qDebug() << "Hello World!";
+	qDebug() << "Hello World!";
+	qDebug() << "Hello World!";
 	return a.exec();
 }
